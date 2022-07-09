@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.navigation{
+    height: 60px;
+    background-color: aquamarine;
+}
+
+.content{
+    height: 70px;
+    background-color: bisque;
+}
+
+.footer{
+    height: 50px;
+    background-color: aqua;
+}
